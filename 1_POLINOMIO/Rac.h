@@ -9,7 +9,7 @@ using namespace std;
 
     /** 
      *  Clase para representar n\'umeros racionales
-     *  @author Rodrigo Alexis Calderon Juarez
+     *  @author Alberto Antonio Garcia G
      *  @version 2018.02.12
      */
 struct Rac {
