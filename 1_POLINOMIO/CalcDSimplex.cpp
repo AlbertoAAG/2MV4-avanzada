@@ -13,7 +13,7 @@ using std::ofstream;
 
 #define PREFIX	"resultado_"
 #define VERSION	0
-#define PDFLATEX	"C:/Users/rodrigo/AppData/Local/Programs/MiKTeX 2.9/miktex/bin/x64/pdflatex.exe"
+#define PDFLATEX	"C:/Users/alberto/AppData/Local/Programs/MiKTeX 2.9/miktex/bin/x64/pdflatex.exe"
 #define ACROBAT		"C:/Program Files (x86)/Adobe/Acrobat Reader DC/Reader/AcroRd32.exe"
 
 void presentar(Polinomio& Pfpiv,    /*Polinomio fila pivote*/
